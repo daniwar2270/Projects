@@ -208,7 +208,7 @@ public class ShoferActivity extends FragmentActivity implements OnMapReadyCallba
                             "?origins="+ String.valueOf(startLocation.latitude)+"%2C"+String.valueOf(startLocation.longitude)+
                             "&destinations=42.652811885082606"+"%2C"+"23.350106133643536" +
                             "&units=imperial" +
-                            "&key=AIzaSyAaletR8n104qtIPhNwde-2M3eIcpTF_Xs").method("GET", null)
+                            "&key=YOUR_API_KEY").method("GET", null)
 
                     .build();
             try {
@@ -398,7 +398,7 @@ public class ShoferActivity extends FragmentActivity implements OnMapReadyCallba
                                     "?origins="+ String.valueOf(a.latitude)+"%2C"+String.valueOf(a.longitude)+
                                     "&destinations="+String.valueOf(b.latitude)+"%2C"+String.valueOf(b.longitude) +
                                     "&units=imperial" +
-                                    "&key=AIzaSyAaletR8n104qtIPhNwde-2M3eIcpTF_Xs").method("GET", null)
+                                    "&key=YOUR_API_KEY").method("GET", null)
 
                             .build();
                     try {
