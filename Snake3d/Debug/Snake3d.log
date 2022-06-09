@@ -1,0 +1,21 @@
+﻿  Main.cpp
+E:\Университет\komp grafika\Snake3d\Main.cpp(22,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Университет\komp grafika\Snake3d\Main.cpp(689,22): warning C4018: '<': signed/unsigned mismatch
+E:\Университет\komp grafika\Snake3d\Main.cpp(772,24): warning C4018: '>': signed/unsigned mismatch
+E:\Университет\komp grafika\Snake3d\Main.cpp(778,22): warning C4018: '<': signed/unsigned mismatch
+E:\Университет\komp grafika\Snake3d\Main.cpp(793,21): warning C4018: '<': signed/unsigned mismatch
+E:\Университет\komp grafika\Snake3d\Main.cpp(854,24): warning C4018: '<': signed/unsigned mismatch
+E:\Университет\komp grafika\Snake3d\Main.cpp(1011,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Snake3d.vcxproj -> E:\Университет\komp grafika\Debug\Snake3d.exe
+  E:\???????????\komp grafika\Snake3d\Shaders\fragment.frag
+  E:\???????????\komp grafika\Snake3d\Shaders\multitextures.frag
+  E:\???????????\komp grafika\Snake3d\Shaders\mvp.vert
+  E:\???????????\komp grafika\Snake3d\Shaders\vertex.vert
+  4 File(s) copied
+  E:\???????????\komp grafika\Snake3d\Resources\awesomeface.png
+  E:\???????????\komp grafika\Snake3d\Resources\container.jpg
+  E:\???????????\komp grafika\Snake3d\Resources\food.jpg
+  E:\???????????\komp grafika\Snake3d\Resources\map.jpg
+  E:\???????????\komp grafika\Snake3d\Resources\snakeTexture.jpg
+  E:\???????????\komp grafika\Snake3d\Resources\wall.jpg
+  6 File(s) copied
