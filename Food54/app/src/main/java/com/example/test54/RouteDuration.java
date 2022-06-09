@@ -54,7 +54,7 @@ public class RouteDuration {
                         "?origins="+ String.valueOf(start.latitude)+"%2C"+String.valueOf(start.longitude)+
                         "&destinations="+ String.valueOf(end.latitude)+"%2C"+String.valueOf(end.longitude) +
                         "&units=imperial" +
-                        "&key=AIzaSyAaletR8n104qtIPhNwde-2M3eIcpTF_Xs")
+                        "&key=YOUR_API_KEY")
 
 
                 .method("GET", null)
