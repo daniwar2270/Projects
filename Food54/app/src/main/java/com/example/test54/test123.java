@@ -15,7 +15,7 @@ public class test123 {
             OkHttpClient client = new OkHttpClient().newBuilder()
                     .build();
             Request request = new Request.Builder()
-                    .url("https://maps.googleapis.com/maps/api/distancematrix/json?origins=Washington%2C%20DC&destinations=New%20York%20City%2C%20NY&units=imperial&key=AIzaSyAaletR8n104qtIPhNwde-2M3eIcpTF_Xs")
+                    .url("https://maps.googleapis.com/maps/api/distancematrix/json?origins=Washington%2C%20DC&destinations=New%20York%20City%2C%20NY&units=imperial&key=YOUR_API_KEY")
                     .method("GET", null)
                     .build();
             try {
@@ -38,7 +38,7 @@ public class test123 {
     //OkHttpClient client = new OkHttpClient().newBuilder()
     //        .build();
     //Request request = new Request.Builder()
-    //        .url("https://maps.googleapis.com/maps/api/distancematrix/json?origins=Washington%2C%20DC&destinations=New%20York%20City%2C%20NY&units=imperial&key=AIzaSyAaletR8n104qtIPhNwde-2M3eIcpTF_Xs")
+    //        .url("https://maps.googleapis.com/maps/api/distancematrix/json?origins=Washington%2C%20DC&destinations=New%20York%20City%2C%20NY&units=imperial&key=")
     //        .method("GET", null)
     //        .build();
     //    try {
